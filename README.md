@@ -11,7 +11,7 @@ This is a one page website along with a registration form to save user's data
 2.Create a python virtual environment and install python dependencies.
 
 ```shell
-    cd IEEE_Webpage
+    cd sarthak_web
     virtualenv venv
     source venv/bin/activate  # run this command everytime before working on project
     pip install -r requirements.txt
